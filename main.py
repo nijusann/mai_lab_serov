@@ -11,3 +11,5 @@ def factorial(n):
 
 if __name__ == '__main__':
     print('Факториал 5 =', factorial(5))
+
+print('Git - круто!!!!!!!!!!!!!!')
